@@ -5,7 +5,7 @@ Converts to an Id which is only lowercase alphanumeric characters.
 ## Install
 
 ```
-$ npm install --save toId
+$ npm install --save toid
 ```
 
 ## Usage

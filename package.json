@@ -1,5 +1,5 @@
 {
-  "name": "toId",
+  "name": "toid",
   "version": "1.0.0",
   "description": "Converts to an Id which is only lowercase alphanumeric characters.",
   "license": "MIT",
