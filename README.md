@@ -11,7 +11,20 @@ $ npm install --save toId
 ## Usage
 
 ```js
-toId('Some Username-123'); // 'someusername123'
+toId('Some Username-123');
+// 'someusername123'
+
+toId('Crystal★Tempo');
+// 'crystaltempo'
+
+toId('Eden (Saiyan)');
+// 'edensaiyan'
+
+toId('Some_Mega_Man');
+// 'somemegaman'
+
+toId('BatMan');
+// 'batman'
 ```
 
 ## License
