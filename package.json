@@ -1,0 +1,32 @@
+{
+  "name": "toId",
+  "version": "1.0.0",
+  "description": "Converts to an Id which is only lowercase alphanumeric characters.",
+  "license": "MIT",
+  "repository": "CreaturePhil/toid",
+  "author": {
+    "name": "Phil",
+    "email": "birkal@outlook.com",
+    "url": "creaturephil.github.io"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "eslint *.js && tape *.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "id",
+    "toId",
+    "convert",
+    "uid",
+    "username"
+  ],
+  "devDependencies": {
+    "eslint": "^2.2.0",
+    "tape": "^4.4.0"
+  }
+}
