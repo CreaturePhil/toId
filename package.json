@@ -1,6 +1,6 @@
 {
   "name": "toid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts to an Id which is only lowercase alphanumeric characters.",
   "license": "MIT",
   "repository": "CreaturePhil/toid",

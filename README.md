@@ -11,6 +11,8 @@ $ npm install --save toid
 ## Usage
 
 ```js
+var toId = require('toid');
+
 toId('Some Username-123');
 // 'someusername123'
 
